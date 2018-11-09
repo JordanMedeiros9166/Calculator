@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
