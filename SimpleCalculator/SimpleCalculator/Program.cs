@@ -48,12 +48,7 @@ namespace SimpleCalculator
             foreach (char item in array)
             {
                 inputList.Add(item.ToString());
-            }
-            //simple integers
-            //if (input.Contains(Regex.Match(input, @"\d+").Value) && !input.Contains("add") || !input.Contains("multiply"))
-            //{
-            //    return input;
-            //}
+            }           
             string tempStringInput = string.Join("", inputList.ToArray());
             if (inputList.Contains("a") && inputList.Contains("m"))
             {
