@@ -13,7 +13,7 @@ Calculator made in C# as a test.
  - Supports simple numbers.
  - Supports simple add expressions.
  - Supports simply multiplication expressions.
- - Supports nested expressions to an abritrary depth.
+ - Supports nested expressions to an arbitrary depth.
  - Supports arbitrary number of arguments.
  
 ![alt text](https://i.gyazo.com/48f8fa86a8917bb5552e648d3d50e769.png)
